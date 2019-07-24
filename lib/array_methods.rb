@@ -1,6 +1,6 @@
 def using_include(array, element)
  matt = ["handsome", 28, "tall"]
- matt.include?("tall")
+ matt.include?("ugly")
 end
 
 def using_sort(array)
